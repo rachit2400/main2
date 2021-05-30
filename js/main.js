@@ -16,5 +16,5 @@ function myFunction() {
 }
 
 function open(){
-    window.open("https://rachit2400.github.io/kiss/");
+    window.open("https://bit.ly/3uJuHfr");
 }
